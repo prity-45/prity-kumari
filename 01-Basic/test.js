@@ -30,3 +30,14 @@ console.log(accountpassword)
 console.log(accountcity)
 console.log(accountState)
 console.table([accountEmail,accountID,accountState,accountpassword,accountcity])
+let num=null;
+console.log(num);
+let a=5;
+console.log(a);
+num1=10;
+num2="5";
+result=num1+num2;
+num1=10;
+num2=5;
+result=num1+num2;
+console.log(result)
