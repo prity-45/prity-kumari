@@ -12,7 +12,9 @@ vii.symbol-uniqueness
 let name="prity";
 let age=21;
 let ispresent= true;
+let id=Symbol('123');
+let Anotherid=Symbol('123');
 console.log(typeof name);
 console.log(typeof age);
 console.log(typeof ispresent);
-
+console.log(id === Anotherid);
