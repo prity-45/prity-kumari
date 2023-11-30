@@ -7,7 +7,12 @@
 //console.log(typeof(score));
 //let valueINnumber=Number(score)
 //console.log(typeof valueINnumber)
-let isLoggedIn="giet"
-let booleanIsLoggedIn=Boolean(isLoggedIn);
-console.log(typeof booleanIsLoggedIn);
-console.log(booleanIsLoggedIn);
+//let isLoggedIn="giet"
+//console.log(typeof booleanIsLoggedIn);
+//console.log(booleanIsLoggedIn);
+/*
+"giet"=true
+""=false
+1=true
+0=false
+*/
