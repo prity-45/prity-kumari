@@ -17,3 +17,10 @@ console.log(`my name is ${name}`);        //  ` it is a backtics ESC down button
  const myName ="                        giet                    ";
  console.log(myName);
  console.log(myName.trim());
+ //slice is the retrun element
+ const anotherName=name.slice(0,5);
+ console.log(anotherName);
+ const url="www.webbocket.com";
+ console.log(url.replace("com","in"));
+ const demo="giet-is-a-good-college";
+ console.log(demo.split('-'));
