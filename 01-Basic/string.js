@@ -11,3 +11,9 @@ console.log(`my name is ${name}`);        //  ` it is a backtics ESC down button
  console.log(name.toLowerCase());
  console.log(name.indexOf('n'));
  console.log(name.charAt(2));
+
+ const newName =name.substring(0,4);
+ console.log(newName);
+ const myName ="                        giet                    ";
+ console.log(myName);
+ console.log(myName.trim());
