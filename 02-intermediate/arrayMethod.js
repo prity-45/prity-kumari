@@ -1,4 +1,4 @@
-const myArray =[0,1,2,3,4,5,6,7]
+/*const myArray =[0,1,2,3,4,5,6,7]
 console.log(myArray)
 myArray.push(8);
 console.log(myArray)
@@ -20,3 +20,16 @@ console.log(typeof demoArray);
 console.log("a","myArray");
 const myArray1 =myArray.slice(1,3);
 console.log(myArray1);
+console.log("B",myArray);
+const myArray2 =myArray.splice(1,3)
+console.log(myArray2)*/
+const cars =["maruti","alto","xuv","waynor"]
+const supercars =["bmw","audi","g-wagon","defend"]
+//  cars.push(supercars);
+// console.log(cars);
+// cars.concat(supercars);
+// console.log(cars);
+// const allcars = cars.concat(supercars);
+// console.log(allcars);
+const allNewcars =[...cars,...supercars];
+console.log(allNewcars);
