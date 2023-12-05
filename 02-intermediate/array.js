@@ -6,3 +6,8 @@ const myArr =["giet","1","true"]
 console.log(myArr[1])
 const mynewArr =new Array(1,2,3,4)
 console.log(mynewArr);
+
+
+
+
+
