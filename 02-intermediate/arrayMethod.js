@@ -33,10 +33,10 @@ console.log(myArray2)*/
 // console.log(allcars);
 // const allNewcars =[...cars,...supercars];
 // console.log(allNewcars);
-const anotherArray =[1,2,3,[4,5,6],7,[6,7,[4,5]]]
-const realAnotherArray =anotherArray.flat(Infinity);
-console.log(realAnotherArray);
-console.log(Array.isArray("prity"));
-console.log(Array.from("prity"));
+// const anotherArray =[1,2,3,[4,5,6],7,[6,7,[4,5]]]
+// const realAnotherArray =anotherArray.flat(Infinity);
+// console.log(realAnotherArray);
+// console.log(Array.isArray("prity"));
+// console.log(Array.from("prity"));
 // =>is arraay is a method to check wheather it is a array or not
 // => from is a method in which we create that it automatically creates a array
