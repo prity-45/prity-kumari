@@ -1,4 +1,4 @@
-let mydate=new Date();
+/*let mydate=new Date();
 console.log(mydate);
 console.log(mydate.toString());
 console.log(mydate.toDateString());
@@ -15,5 +15,17 @@ console.log(newDate.getfullyear);
 console.log(newDate.getHours());
 console.log(newDate.getMinutes());
 console.log(newDate.getSeconds());
+*/
+
+
+// let newDate=new Date();
+// console.log(newDate);
+// console.log(newDate.getDay());
+// console.log(newDate.getDate());
+// console.log(newDate.getFullYear());
+// console.log(newDate.getHours());
+// console.log(newDate.getMinutes());
+// console.log(newDate.getMonth());
+// console.log(newDate.getSeconds());
 
 
